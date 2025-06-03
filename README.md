@@ -30,7 +30,7 @@ Open your browser and navigate to http://localhost:3000 to see the app in action
 Throughout the weeks you will be adding new features to this existing application.
 For your tasks you should be searching for the following:
 
-- Tasks for week1: `TASK - React 1 week 1`
+- Tasks for week1: ``
 - Tasks for week2: `TASK - React 1 week 2`
 - Tasks for week3: `TASK - React 1 week 3`
 
