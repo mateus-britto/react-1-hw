@@ -3,3 +3,47 @@
   width: 100vw;
   height: 100vh;
 }
+
+.valuesSection {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 2rem;
+}
+
+.crewWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.crewMemberContainer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.crewMember {
+  height: auto;
+  width: 150px;
+}
+
+.commonText {
+  font-size: 1.2rem;
+}
+
+.crewMemberName {
+  font-weight: bold;
+}
+
+.partnersTitle {
+  margin-bottom: 32px;
+}
+
+.partnerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 2rem;
+}
